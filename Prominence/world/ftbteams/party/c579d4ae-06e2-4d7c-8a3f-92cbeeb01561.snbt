@@ -1,0 +1,25 @@
+{
+	id: "c579d4ae-06e2-4d7c-8a3f-92cbeeb01561"
+	type: "party"
+	owner: "dd066a82-c185-4628-ae0d-472f32e3411e"
+	ranks: {
+		dd066a82-c185-4628-ae0d-472f32e3411e: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Adventurer's Guild"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9559"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1699886362729L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"ShounenSaruman\"}]}" }
+		{ from: "38ce5e1f-dd4f-4c5e-9985-1e33b48832b4", date: 1699886362738L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Chancudu\"}]}" }
+		{ from: "38ce5e1f-dd4f-4c5e-9985-1e33b48832b4", date: 1699886745547L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Chancudu\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1699886751579L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Chancudu\"}]}" }
+		{ from: "38ce5e1f-dd4f-4c5e-9985-1e33b48832b4", date: 1699887819130L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"Chancudu\"}]}" }
+		{ from: "38ce5e1f-dd4f-4c5e-9985-1e33b48832b4", date: 1700316867788L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.transfer_owner\",\"with\":[{\"color\":\"yellow\",\"text\":\"Chancudu\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1700316869989L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.left_party\",\"with\":[{\"color\":\"yellow\",\"text\":\"ShounenSaruman\"}]}" }
+	]
+	extra: { }
+}

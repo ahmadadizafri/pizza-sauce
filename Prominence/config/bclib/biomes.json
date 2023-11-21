@@ -1,0 +1,19 @@
+{
+  "force_include": {
+    "NETHER": [],
+    "END_LAND": [],
+    "END_VOID": [],
+    "END_CENTER": [
+      "eldritch_end:primordial_abyss",
+      "eldritch_end:hasturian_wastes"
+    ],
+    "END_BARRENS": [
+      "eldritch_end:primordial_abyss",
+      "eldritch_end:hasturian_wastes"
+    ]
+  },
+  "force_exclude": {
+    "NETHER": [],
+    "END": []
+  }
+}

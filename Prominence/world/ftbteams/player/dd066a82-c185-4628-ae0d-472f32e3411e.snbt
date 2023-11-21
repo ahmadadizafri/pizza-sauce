@@ -1,0 +1,15 @@
+{
+	id: "dd066a82-c185-4628-ae0d-472f32e3411e"
+	type: "player"
+	player_name: "Chancudu"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Chancudu"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FFB259"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

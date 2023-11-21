@@ -1,0 +1,17 @@
+{
+	id: "38ce5e1f-dd4f-4c5e-9985-1e33b48832b4"
+	type: "player"
+	player_name: "ShounenSaruman"
+	ranks: {
+		38ce5e1f-dd4f-4c5e-9985-1e33b48832b4: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ShounenSaruman"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF9559"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
